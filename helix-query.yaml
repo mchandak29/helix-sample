@@ -3,7 +3,7 @@ indices:
   channels:
     include:
       - '/screens/**'
-    target: '/screens/channels'
+    target: '/screens/query-index'
     properties:
       title:
         select: head > meta[property="og:title"]
